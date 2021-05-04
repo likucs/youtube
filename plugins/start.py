@@ -9,6 +9,6 @@ async def start(client, message):
         [InlineKeyboardButton(
             "🤓 Assistant 🤓", url="https://t.me/likuGF")]
     ])
-    welcomed = f"Hi! <b>{message.from_user.first_name}</b>\n/help lo thawn la aw, Min hmandan tur i hriat duh chuan."
+    welcomed = f"Hi! <b>{message.from_user.first_name}</b>\n/help le Bete mouj kardi bsdk bc help pe click kar, mujhe kya dekh raha he."
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
