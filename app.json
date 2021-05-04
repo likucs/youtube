@@ -1,13 +1,13 @@
 {
-  "name": "YouTube Downloader",
+  "name": " CS YouTube Downloader",
   "description": "A telegram bot To Download Youtube Files ",
   "logo": "https://telegra.ph/file/5c993ec33b004a9ca1670.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/ZauteKm/YT-Downloader",
+  "repository": "https://github.com/likucs/youtube",
   "success_url": "https://t.me/urlupload_zkbot",
-  "website": "https://github.com/ZauteKm/YT-Downloader",
+  "website": "https://github.com/likucs/youtube",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
